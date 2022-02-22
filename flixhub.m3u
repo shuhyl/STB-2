@@ -51,8 +51,6 @@ http://live.flixhub.net/hls/indepen.m3u8
 #EXTINF:-1 group-title="BD-BANGLA" tvg-logo="https://i.imgur.com/18m3T6f.jpg",SOMOY TV
 http://live.flixhub.net/hls/somoy.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/RpXwNZM.png",ZoOM
-http://live.flixhub.net/hls/zoom.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/ZY6bPmR.png",BBC Earth HD
 http://live.flixhub.net/hls/bbcearth.m3u8
@@ -122,4 +120,8 @@ http://live.flixhub.net/hls/sony-maxhd.m3u8
 http://live.flixhub.net/hls/zeetv.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="http://live.flixhub.net/img/stargold.jpg",stargold
 http://live.flixhub.net/hls/stargold.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/RpXwNZM.png",ZoOM
+http://live.flixhub.net/hls/zoom.m3u8
+
+
 
