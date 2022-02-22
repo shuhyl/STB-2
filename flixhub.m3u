@@ -36,22 +36,24 @@ http://live.flixhub.net/hls/euro.m3u8
 
 #EXTINF:-1 group-title="BD-BANGLA" tvg-logo="https://i.imgur.com/RR0Iv6V.png",BTV World
 http://103.106.2.149:13456/btv_world.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/RpXwNZM.png",ZoOM
-http://live.flixhub.net/hls/zoom.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/FXoKFOA.png",Tsports HD
 http://live.flixhub.net/hls/t-sports.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/Fzfkvqi.png",GTV HD
 http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 group-title="BD-BANGLA" tvg-logo="https://i.imgur.com/nYRFnW5.png",CHANNEL I
 http://live.flixhub.net/hls/channeli.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://imgur.com/kA2ZJQB.png",NEXUS TV
+#EXTINF:-1 group-title="BD-BANGLA" tvg-logo="https://imgur.com/kA2ZJQB.png",NEXUS TV
 http://live.flixhub.net/hls/nexus.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/zsahmn3.png",Maasranga HD
+#EXTINF:-1 group-title="BD-BANGLA" tvg-logo="https://i.imgur.com/zsahmn3.png",Maasranga HD
 http://live.flixhub.net/hls/masranga.m3u8
-#EXTINF:-1 group-title="FCNBD-NEWS" tvg-logo="https://i.imgur.com/AMk8mRZ.png",INDEPENDENT
+#EXTINF:-1 group-title="BD-BANGLA" tvg-logo="https://i.imgur.com/AMk8mRZ.png",INDEPENDENT
 http://live.flixhub.net/hls/indepen.m3u8
-#EXTINF:-1 group-title="FCNBD-NEWS" tvg-logo="https://i.imgur.com/18m3T6f.jpg",SOMOY TV
+#EXTINF:-1 group-title="BD-BANGLA" tvg-logo="https://i.imgur.com/18m3T6f.jpg",SOMOY TV
 http://live.flixhub.net/hls/somoy.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://imgur.com/RpXwNZM.png",ZoOM
+http://live.flixhub.net/hls/zoom.m3u8
+
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/ZY6bPmR.png",BBC Earth HD
 http://live.flixhub.net/hls/bbcearth.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/QOye6lA.png",Discovery HD
