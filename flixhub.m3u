@@ -69,13 +69,13 @@ http://live.flixhub.net/hls/wild.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://live.flixhub.net/img/dis-science.png",Dis-science
 http://live.flixhub.net/hls/dis-science.m3u8
 
-#EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/542VNXV.png",Nick
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://imgur.com/542VNXV.png",Nick
 http://live.flixhub.net/hls/nick.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://imgur.com/2tjaJND.png",CN
 http://live.flixhub.net/hls/cn.m3u8
-#EXTINF:-1 group-title="FCN-KIDS" tvg-logo="https://i.imgur.com/VKSpv5k.png",POGO SD
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/VKSpv5k.png",POGO SD
 http://live.flixhub.net/hls/pogo.m3u8
-#EXTINF:-1 group-title="FCN-KIDS" tvg-logo="http://live.flixhub.net/img/dis-kid.png",Dis Kids
+#EXTINF:-1 group-title="Cartoon" tvg-logo="http://live.flixhub.net/img/dis-kid.png",Dis Kids
 http://live.flixhub.net/hls/dis-kid.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/iCOQK4B.png",Star Movies HD
