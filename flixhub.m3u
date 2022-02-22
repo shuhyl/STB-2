@@ -66,6 +66,8 @@ http://live.flixhub.net/hls/animalplanent.m3u8
 http://live.flixhub.net/hls/tlc.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="http://live.flixhub.net/img/wild.png",Wild
 http://live.flixhub.net/hls/wild.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="http://live.flixhub.net/img/dis-science.png",Dis-science
+http://live.flixhub.net/hls/dis-science.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/542VNXV.png",Nick
 http://live.flixhub.net/hls/nick.m3u8
@@ -103,21 +105,19 @@ http://live.flixhub.net/hls/colorscineplex.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",Utv Action
 http://live.flixhub.net/hls/utvaction.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",star-worldhd
-http://live.flixhub.net/hls/star-worldhd.m3u8
 
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",mnx-hd
+#EXTINF:-1 group-title="Hindi" tvg-logo="http://live.flixhub.net/img/starhd.jpg",star-worldhd
+http://live.flixhub.net/hls/star-worldhd.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo="http://live.flixhub.net/img/mnx-hd.jpg",mnx-hd
 http://live.flixhub.net/hls/mnx-hd.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",bindass
+#EXTINF:-1 group-title="Hindi" tvg-logo="http://live.flixhub.net/img/bindass.jpeg",bindass
 http://live.flixhub.net/hls/bindass.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",utvaction
+#EXTINF:-1 group-title="Hindi" tvg-logo="http://live.flixhub.net/img/utvaction.jpg",utvaction
 http://live.flixhub.net/hls/utvaction.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",sony-maxhd
+#EXTINF:-1 group-title="Hindi" tvg-logo="http://live.flixhub.net/img/sony-maxhd.jpg",sony-maxhd
 http://live.flixhub.net/hls/sony-maxhd.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",zeetv
+#EXTINF:-1 group-title="Hindi" tvg-logo="http://live.flixhub.net/img/zeetv.png",zeetv
 http://live.flixhub.net/hls/zeetv.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",dis-science
-http://live.flixhub.net/hls/dis-science.m3u8
-#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",stargold
+#EXTINF:-1 group-title="Hindi" tvg-logo="http://live.flixhub.net/img/stargold.jpg",stargold
 http://live.flixhub.net/hls/stargold.m3u8
 
