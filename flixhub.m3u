@@ -103,23 +103,21 @@ http://live.flixhub.net/hls/colorscineplex.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",Utv Action
 http://live.flixhub.net/hls/utvaction.m3u8
 
-
-
-
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",star-worldhd
 http://live.flixhub.net/hls/star-worldhd.m3u8
 
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",mnx-hd
 http://live.flixhub.net/hls/mnx-hd.m3u8
-
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",bindass
 http://live.flixhub.net/hls/bindass.m3u8
-
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",utvaction
 http://live.flixhub.net/hls/utvaction.m3u8
-
-
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",sony-maxhd
 http://live.flixhub.net/hls/sony-maxhd.m3u8
-
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",zeetv
 http://live.flixhub.net/hls/zeetv.m3u8
-
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",dis-science
 http://live.flixhub.net/hls/dis-science.m3u8
-
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",stargold
 http://live.flixhub.net/hls/stargold.m3u8
 
