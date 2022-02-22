@@ -7,6 +7,8 @@ http://live.flixhub.net/hls/Sony_Aath.m3u8
 http://live.flixhub.net/hls/starjalsha.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/mYjXbH7.png",Zee Bangla HD
 http://live.flixhub.net/hls/zeebanglahd.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="http://live.flixhub.net/img/Zee_Bangla_Cinema.jpg",Zee Bangla Cinema
+http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/ghBUxYm.png",Colors Bangla HD
 http://live.flixhub.net/hls/colorsbangla.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://imgur.com/jsYRd39.png",Jalsha Movies HD
@@ -60,6 +62,11 @@ http://live.flixhub.net/hls/ngohd.m3u8
 http://live.flixhub.net/hls/travelxp.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://imgur.com/9etOm0d.png",Animal Planet HD
 http://live.flixhub.net/hls/animalplanent.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://live.flixhub.net/img/tlc.jpeg",TLC
+http://live.flixhub.net/hls/tlc.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="http://live.flixhub.net/img/wild.png",Wild
+http://live.flixhub.net/hls/wild.m3u8
+
 #EXTINF:-1 group-title="English" tvg-logo="https://imgur.com/542VNXV.png",Nick
 http://live.flixhub.net/hls/nick.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://imgur.com/2tjaJND.png",CN
@@ -96,11 +103,8 @@ http://live.flixhub.net/hls/colorscineplex.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/nDLjaDL.png",Utv Action
 http://live.flixhub.net/hls/utvaction.m3u8
 
-http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
 
-http://live.flixhub.net/hls/tlc.m3u8
 
-http://live.flixhub.net/hls/wild.m3u8
 
 http://live.flixhub.net/hls/star-worldhd.m3u8
 
