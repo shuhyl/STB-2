@@ -37,8 +37,6 @@ http://103.167.190.250/hls/euro.m3u8
 http://103.167.190.250/hls/ptv.m3u8
 
 
-#EXTINF:-1 group-title="BD-BANGLA" tvg-logo="https://i.imgur.com/RR0Iv6V.png",BTV World
-http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/FXoKFOA.png",Tsports HD
 http://103.167.190.250/hls/t-sports.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://imgur.com/Fzfkvqi.png",GTV HD
