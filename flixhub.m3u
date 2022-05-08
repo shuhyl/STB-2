@@ -33,6 +33,9 @@ http://103.167.190.250/hls/sonyten2.m3u8
 http://103.167.190.250/hls/sonyten3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://103.167.190.250/img/euro.jpg",Euro Sport
 http://103.167.190.250/hls/euro.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://103.167.190.250/img/ptv.jpg",PTV Sports
+http://103.167.190.250/hls/ptv.m3u8
+
 
 #EXTINF:-1 group-title="BD-BANGLA" tvg-logo="https://i.imgur.com/RR0Iv6V.png",BTV World
 http://103.106.2.149:13456/btv_world.m3u8
