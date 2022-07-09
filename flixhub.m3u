@@ -124,4 +124,82 @@ http://103.55.144.46/hls/stargold.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://imgur.com/RpXwNZM.png",ZoOM
 http://103.55.144.46/hls/zoom.m3u8
 
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png",BTV World(Rangdhanu)
+https://cdn.rangdhanu.live/BTVWorld/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png",Gazi TV(Rangdhanu)
+https://cdn.rangdhanu.live/GaziTV/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png",ATN Bangla(Rangdhanu)
+https://cdn.rangdhanu.live/ATNBangla/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",Ekushay TV(Rangdhanu)
+https://cdn.rangdhanu.live/EkusheyTv/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png",NTV(Rangdhanu)
+https://cdn.rangdhanu.live/NTV/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",RTV(Rangdhanu)
+https://cdn.rangdhanu.live/RTV/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",SATV(Rangdhanu)
+https://cdn.rangdhanu.live/SATV/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona TV(Rangdhanu)
+https://cdn.rangdhanu.live/MohonaTV/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi TV(Rangdhanu)
+https://cdn.rangdhanu.live/BoishakhiTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png",Channel 24(Rangdhanu)
+https://cdn.rangdhanu.live/Channel24/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png",News 24(Rangdhanu)
+https://cdn.rangdhanu.live/News24/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png",DBC News(Rangdhanu)
+https://cdn.rangdhanu.live/DBCNews/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png",Gaan Bangla(Rangdhanu)
+https://cdn.rangdhanu.live/GaanBangla/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu",ATN Music(Rangdhanu)
+https://cdn.rangdhanu.live/ATNMusic/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.png",Sony Aath(Rangdhanu)
+https://cdn.rangdhanu.live/SonyAath/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png",Zee Bangla(Rangdhanu)
+https://cdn.rangdhanu.live/ZeeBangla/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Sab.jpeg",Sony Sab(Rangdhanu)
+https://cdn.rangdhanu.live/SonySAB/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png",Sony Max HD(Rangdhanu)
+https://cdn.rangdhanu.live/SonyMaxHD/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg",Sony Ten 1(Rangdhanu)
+https://cdn.rangdhanu.live/SonyTen1/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png",Sony Ten 2(Rangdhanu)
+https://cdn.rangdhanu.live/SonyTen2/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png",Sony Ten 3(Rangdhanu)
+https://cdn.rangdhanu.live/SonyTen3/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Six.png",Sony Six(Rangdhanu)
+https://cdn.rangdhanu.live/SonySix/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png",9X Jalwa(Rangdhanu)
+https://cdn.rangdhanu.live/9XJalwa/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://imgur.com/GPPBEiZ.png",MTV
+https://cdn.rangdhanu.live/MTV/video.m3u8
+
+#EXTINF:-1 group-title="Rangdhanu" tvg-logo="https://i.imgur.com/8HTCcDe.png",Sony Max HD
+https://cdn.rangdhanu.live/SonyMaxHD/video.m3u8
+
+
+
+
 
